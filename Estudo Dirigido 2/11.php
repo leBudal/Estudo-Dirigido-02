@@ -1,6 +1,6 @@
 <?php 
 
-print "Digite um nímero menor que 1000: ";
+print "Digite um número menor que 1000: ";
 $n = (int) fgets(STDIN);
 
 if(strlen($n)==3){
